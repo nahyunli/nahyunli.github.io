@@ -33,7 +33,7 @@ window.SITE = {
   affiliation: "College of IST · Penn State University",
   location: "State College, PA",
   photo: "images/profile.jpg",     // your profile photo (square works best)
-  banner: "images/banner.jpg",     // wide banner on Home, like LinkedIn (about 1600 × 400)
+  banner: "images/IMG_2226.jpeg",     // wide banner on Home, like LinkedIn (about 1600 × 400)
   cv: "files/cv.pdf",              // your CV. Leave "" to hide the CV button.
 
   // Your name as it appears in author lists. It is shown in bold there.
